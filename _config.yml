@@ -16,7 +16,7 @@
 title: Anup Kalburgi
 email: anupkalburgi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I had to fill in something, so that I can come bak and fill it.
+  # I had to fill in something, so that I can come bak and fill it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: montyanup
