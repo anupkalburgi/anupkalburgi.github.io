@@ -27,7 +27,7 @@ Based on my mistakes.
 
 - Writing code is not the job, solving the problem at hand is. I have never seen anyone say "We have a problem writing code" unless literally, they have a broken screen.
 
-- It is ok to say "I have not idea please explain".  
+- It is ok to say "I have no idea please explain".  
 
 - Don't ask a question because you know the answer. 
 
@@ -35,6 +35,6 @@ Based on my mistakes.
 
 - Always assume good intent. Assume there is something you are missing when you don't understand.
 
-- When you say something is wrong, please say why and give examples. Just saying wrong is never useful. 
+- When you say something is wrong, please say why and give examples. Just saying _wrong_ is never useful. 
 
-- When you say I don't like doing it that way, please explain what are the pain points of it. Just saying not a fan of it goes on to say "ya ok but I want to do it my way not your way."
+- When you say `I don't like doing it that way`, please explain what are the pain points of it. Just saying not a fan of it goes on to say "ya ok but I want to do it my way not your way."
