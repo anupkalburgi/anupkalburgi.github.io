@@ -21,11 +21,7 @@ Based on my mistakes.
 
 - Don't call anything fixed until there is merged PR for it. (Even if it was creating a database/ setting up VM/ cleaning disk space document the steps if you cant automate it.)
 
-- Jira/Trello is great to communicate progress, not everything has to have a ticket. If you see a bug or an opportunity to make something better please go ahead and do it. A ticket is not needed.
-
-- Files are hard, really they are hard. Don't use them if you can. And if you have to please use system calls and don't write `open("/thisFile.txt")`
-
-- Writing code is not the job, solving the problem at hand is. I have never seen anyone say "We have a problem writing code" unless literally, they have a broken screen.
+- Jira/Trello is great to communicate progress, not everything has to have a ticket. If you see a bug or an opportunity to make something better please go ahead and do it. A ticket is not needed, who introduced is not important.
 
 - It is ok to say "I have no idea please explain".  
 
