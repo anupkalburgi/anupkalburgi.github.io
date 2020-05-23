@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to be a kind coworker"
-date:   2020-05-17 17:36:52 -0400
+date:   2020-05-23 11:26:52 -0400
 categories: jekyll update
 ---
 
