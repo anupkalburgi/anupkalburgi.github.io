@@ -26,11 +26,11 @@ In the function with type signature, every time I come to change something withi
 
 The thing that makes this experience a delight is VS code python [extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) it is as easy as installing the plugin.
 
-![type error](images/may_23_2020_python_1.png)
+![type error](../images/may_23_2020_python_1.png)
 
 Or in the problems window
 
-![type errors pblm](images/may_23_2020_python_2.png)
+![type errors pblm](../images/may_23_2020_python_2.png)
 
 The great thing is, it is optional. And can exist in an isolated part of the codebase without disturbing the rest of codebase. Hopefully, this is going to make maintaining code easy and less time consuming.
 
